@@ -2,7 +2,7 @@
 name: BUG_TEMPLATE
 about: 버그 상황 & 수정 보완 이슈 작성
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
